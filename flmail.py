@@ -26,7 +26,7 @@ try:
     print('====' * 10)
     min_senha = input('[*]Sua senha: ')
     print('====' * 10)
-    destinatario = input('[*]Email que deseja floodar: ')
+    destinatario = input('[*]Email que deseja Floodar: ')
     print('====' * 10)
     assunto = input('[*]Assunto: ')
     print('====' * 10)
