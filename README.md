@@ -1,2 +1,2 @@
 #
-Script codado em python para fazer spam/flood em email.
+Script codado em python para fazer Spam/Flood em email.
